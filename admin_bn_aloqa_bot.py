@@ -8,8 +8,8 @@ from aiogram.dispatcher.filters.state import State, StatesGroup
 from asyncio import sleep
 
 # Token va admin ID
-API_TOKEN = "7881605660:AAFJI5MG1Yyb0s3LFR-mUyUgUNADn4Vglig"
-ADMIN_ID = 7888045216  # O'zingizning Telegram ID'ingizni yozing
+API_TOKEN = "12"
+ADMIN_ID = 12  # O'zingizning Telegram ID'ingizni yozing
 
 # Logger sozlamalari
 logging.basicConfig(level=logging.INFO)
